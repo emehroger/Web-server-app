@@ -1,0 +1,4 @@
+This option need to work for this app to work
+The code is design to enable merging of other commi
+Additional changes are made to enable this app to work 
+This is scalabilityt
